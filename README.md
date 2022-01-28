@@ -1,0 +1,2 @@
+# PrivateSpecRepoAmbrish
+Testing private pods
